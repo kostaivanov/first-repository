@@ -1,0 +1,5 @@
+C:\Users\kosta\documents\visual studio 2013\Projects\1.BASIC SYNTAX - EXERCISES\10.TestNumbers\bin\Debug\10.TestNumbers.exe.config
+C:\Users\kosta\documents\visual studio 2013\Projects\1.BASIC SYNTAX - EXERCISES\10.TestNumbers\bin\Debug\10.TestNumbers.exe
+C:\Users\kosta\documents\visual studio 2013\Projects\1.BASIC SYNTAX - EXERCISES\10.TestNumbers\bin\Debug\10.TestNumbers.pdb
+C:\Users\kosta\documents\visual studio 2013\Projects\1.BASIC SYNTAX - EXERCISES\10.TestNumbers\obj\Debug\10.TestNumbers.exe
+C:\Users\kosta\documents\visual studio 2013\Projects\1.BASIC SYNTAX - EXERCISES\10.TestNumbers\obj\Debug\10.TestNumbers.pdb
